@@ -1,0 +1,4 @@
+src-git packages https://mirrors.tuna.tsinghua.edu.cn/git/immortalwrt/packages.git;openwrt-24.10
+src-git luci https://mirrors.tuna.tsinghua.edu.cn/git/immortalwrt/luci.git;openwrt-24.10
+src-git routing https://mirrors.tuna.tsinghua.edu.cn/git/openwrt/packages/routing.git;openwrt-24.10
+src-git telephony https://mirrors.tuna.tsinghua.edu.cn/git/openwrt/packages/telephony.git;openwrt-24.10
